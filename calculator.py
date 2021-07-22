@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title("Caculator")
+root.title("Calculator")
 
 # uinput is the User input, numbers. Oftened referred to as 'entry'
 
