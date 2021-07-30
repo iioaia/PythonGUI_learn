@@ -3,7 +3,7 @@ from tkinter import *
 root = Tk()
 root.title("Calculator")
 
-# uinput is the User input, numbers. Oftened referred to as 'entry'
+# uinput is the User input, numbers. Often referred to as 'entry'
 
 uinput = Entry(root, width=35, borderwidth=5)
 uinput.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
