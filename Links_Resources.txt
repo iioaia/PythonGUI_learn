@@ -1,0 +1,8 @@
+# Overview Link
+https://docs.python.org/3/library/tk.html
+
+# Focus Tkinter, Basic code sample, books, references.
+https://docs.python.org/3/library/tkinter.html#module-tkinter
+
+# TkInter wiki  
+https://wiki.python.org/moin/TkInter
